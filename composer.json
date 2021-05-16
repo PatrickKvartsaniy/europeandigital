@@ -9,11 +9,16 @@
     "license": "MIT",
     "require": {
         "php": "^7.1.3",
-        "cnvs/canvas": "^4.1",
         "cviebrock/eloquent-sluggable": "^4.8",
         "fideloper/proxy": "^4.0",
         "laravel/framework": "5.8.*",
         "laravel/tinker": "^1.0",
+        "spatie/laravel-permission": "^2.37",
+        "unisharp/laravel-ckeditor": "^4.7",
+        "unisharp/laravel-filemanager": "~1.8",
+        "van-ons/laraberg": "^1.0",
+        "watson/active": "^3.1",
+        "yajra/laravel-datatables": "^1.5",
         "yajra/laravel-datatables-oracle": "~9.0"
     },
     "require-dev": {
